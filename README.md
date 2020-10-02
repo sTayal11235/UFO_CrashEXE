@@ -11,7 +11,7 @@ STEP 1:: Within the "UFO CrashSite_Data" folder you will find a .zip and a .7z f
 	
 	STEP 1a:: sharedassets0.zip is a normal windows archive folder and may be extracted as usual.
 	
-	STEP 1b:: sharedassets0.assets.7z.001 is a 7zip archive that hai been split into volumes so make sure 
+	STEP 1b:: sharedassets0.assets.7z.001 is a 7zip archive that has been split into volumes so make sure 
 		  you have all the 11 required volumes.
 
 STEP 2:: Extract the sharedassets0.zip as usual and extract only the first volume of the sharedassets0.assets.7z.001 file
